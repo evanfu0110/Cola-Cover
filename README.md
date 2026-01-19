@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">🎮 在线演示：
-  <a href="https://cover.fitanyu.cn" target="_blank">
-  https://cover.fitanyu.cn
+  <a href="https://cover.ftianyu.cn" target="_blank">
+  https://cover.ftianyu.cn
   </a>
 </p>
 <p align="center">👨‍💻 作者博客：
