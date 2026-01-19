@@ -16,6 +16,9 @@
   <a href="https://vercel.com/new/clone?repository-url=https://github.com/evanfu0110/Cola-Cover">
     <img src="https://vercel.com/button" alt="Deploy with Vercel" />
   </a>
+  <a href="https://edgeone.ai/pages/new?repository-url=https%3A%2F%2Fgithub.com%2Fevanfu0110%2FCola-Cover&output-directory=dist&install-command=pnpm%20install&build-command=pnpm%20build" target="_blank">
+    <img src="https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg" alt="Deploy with EdgeOne Pages">
+  </a>
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/evanfu0110/Cola-Cover">
     <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />
   </a>
