@@ -35,6 +35,11 @@
   </a>
 </p>
 
+<p align="center">
+  <h3>✨ 成品图展示</h3>
+  <img src="public/ColaCover.webp" alt="Cola Cover Showcase" width="100%">
+</p>
+
 ## 📖 简介
 
 **Cola-Cover** 是在 [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) 基础上深度改造的现代化封面生成工具。它继承了原版的简洁易用，并针对创作者的痛点进行了大量功能增强和体验优化。
