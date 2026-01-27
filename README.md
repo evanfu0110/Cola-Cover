@@ -31,7 +31,7 @@
 </p>
 <p align="center">👨‍💻 作者博客：
   <a href="https://blog.ftianyu.cn" target="_blank">
-  https://ftianyu.cn
+  https://blog.ftianyu.cn
   </a>
 </p>
 
