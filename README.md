@@ -30,7 +30,7 @@
   </a>
 </p>
 <p align="center">👨‍💻 作者博客：
-  <a href="https://ftianyu.cn" target="_blank">
+  <a href="https://blog.ftianyu.cn" target="_blank">
   https://ftianyu.cn
   </a>
 </p>
